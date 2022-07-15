@@ -1,1 +1,1 @@
-# github-actions-nodejs
+# github-action-nodejs
