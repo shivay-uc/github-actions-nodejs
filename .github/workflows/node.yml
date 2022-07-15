@@ -1,9 +1,6 @@
 name: Node Github CI
 
-on:
-  push:
-    branches:
-      - master
+on: push
 
 jobs:
   test:
